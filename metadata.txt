@@ -1,0 +1,7 @@
+[general]
+name=Elevation Profile and Slope
+qgisMinimumVersion=3.0
+description=Calculate elevation profile and slope between two points
+version=0.1
+author=Your Name
+email=your.email@example.com
